@@ -1,10 +1,10 @@
 {
- "version": "1.8",
+ "version": "1.9",
  "file": "TMSAudit_Setup.exe",
- "sha256": "3c4520a0dc36ee822843a93506f836f398b31dca71bfc8b5dc01bd40437b3073",
+ "sha256": "768303aeccff652c1f1f7c03be6b200cca12b285f6a340a66cfec4b3f3b23ff6",
  "changelog": {
-  "ru": "— Загрузка обновлений с докачкой и повторами: обрывы сети больше не ломают обновление\n— Окно обновления с описанием изменений на трёх языках\n— Отложенная отправка уведомлений без интернета",
-  "en": "— Update downloads now resume and retry: network drops no longer break updates\n— Update window with changelog in three languages\n— Offline outbox for notifications",
-  "pl": "— Pobieranie aktualizacji z wznawianiem i ponowieniami: przerwy sieci już nie psują aktualizacji\n— Okno aktualizacji z listą zmian w trzech językach\n— Kolejka offline dla powiadomień"
+  "ru": "— Окно обновления появляется сразу: кнопки «Установить сейчас/Позже» и описание на трёх языках до начала скачивания\n— Скачивание с докачкой и повторами при обрывах сети",
+  "en": "— Update window appears immediately: Install/Later buttons and a 3-language changelog before downloading starts\n— Downloads resume and retry on network drops",
+  "pl": "— Okno aktualizacji pojawia się od razu: przyciski Zainstaluj/Później i lista zmian w 3 językach przed pobraniem\n— Pobieranie wznawia się i ponawia po przerwach sieci"
  }
 }
