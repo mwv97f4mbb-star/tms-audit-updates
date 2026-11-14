@@ -1,10 +1,10 @@
 {
- "version": "1.7",
+ "version": "1.8",
  "file": "TMSAudit_Setup.exe",
- "sha256": "d10a0cb6e8b63f83ba6d444028d15604d0bf97e3d54b9a9e79a45aed4e5df6ff",
+ "sha256": "3c4520a0dc36ee822843a93506f836f398b31dca71bfc8b5dc01bd40437b3073",
  "changelog": {
-  "ru": "— Окно обновления: описание изменений на трёх языках (RU/EN/PL)\n— Отложенная отправка уведомлений: без интернета сообщения копятся и уходят при первой возможности\n— Исправлен установщик: убрана тихая переустановка, которая могла молча не запускаться",
-  "en": "— Update window: changelog in three languages (RU/EN/PL)\n— Offline outbox: notifications are queued without internet and sent when it appears\n— Installer fix: removed the silent relaunch that could fail invisibly",
-  "pl": "— Okno aktualizacji: lista zmian w trzech językach (RU/EN/PL)\n— Kolejka offline: powiadomienia czekają bez internetu i wysyłają się przy okazji\n— Naprawa instalatora: usunięto ciche przeładowanie, które mogło niewidocznie zawieść"
+  "ru": "— Загрузка обновлений с докачкой и повторами: обрывы сети больше не ломают обновление\n— Окно обновления с описанием изменений на трёх языках\n— Отложенная отправка уведомлений без интернета",
+  "en": "— Update downloads now resume and retry: network drops no longer break updates\n— Update window with changelog in three languages\n— Offline outbox for notifications",
+  "pl": "— Pobieranie aktualizacji z wznawianiem i ponowieniami: przerwy sieci już nie psują aktualizacji\n— Okno aktualizacji z listą zmian w trzech językach\n— Kolejka offline dla powiadomień"
  }
 }
