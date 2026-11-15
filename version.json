@@ -1,10 +1,10 @@
 {
- "version": "2.1.1",
- "file": "TMSAudit_Setup_2_1_1.exe",
- "sha256": "5d30956807cebd54c4dc3688a0e35e6c2d820cfe5c25287155932b74e584a5ac",
+ "version": "2.1.2",
+ "file": "TMSAudit_Setup_2_1_2.exe",
+ "sha256": "77f87cc730b713922ae5db6a1a27989a0725dba4b29c0ab660ee1447dd4f5dbd",
  "changelog": {
-  "ru": "— Сортировка таблицы IB/OB кликом по заголовку столбца\n— Точный поиск: статус и склады — выпадающие списки; вручную только номер машины\n— Выбор даты/времени календарём (как в WMS)",
-  "en": "— IB/OB table sorting by clicking column headers\n— Advanced search: status and warehouses as dropdowns; only the plate is typed\n— Calendar date/time picker (like in WMS)",
-  "pl": "— Sortowanie tabeli IB/OB kliknięciem nagłówka kolumny\n— Szukanie dokładne: status i magazyny jako listy; ręcznie tylko nr auta\n— Kalendarz wyboru daty/czasu (jak w WMS)"
+  "ru": "— Версия теперь видна в заголовке окна\n— Проверка окна «что нового» после обновления",
+  "en": "— Version shown in the window title\n— Post-update changelog window check",
+  "pl": "— Wersja widoczna w tytule okna\n— Sprawdzenie okna zmian po aktualizacji"
  }
 }
