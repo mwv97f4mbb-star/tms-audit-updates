@@ -1,10 +1,10 @@
 {
- "version": "2.1.2",
- "file": "TMSAudit_Setup_2_1_2.exe",
- "sha256": "77f87cc730b713922ae5db6a1a27989a0725dba4b29c0ab660ee1447dd4f5dbd",
+ "version": "2.1.3",
+ "file": "TMSAudit_Setup_2_1_3.exe",
+ "sha256": "dab08380321b2c31e1de9e3616e8ab5b6cff3f861007b9db381b955c245770d1",
  "changelog": {
-  "ru": "— Версия теперь видна в заголовке окна\n— Проверка окна «что нового» после обновления",
-  "en": "— Version shown in the window title\n— Post-update changelog window check",
-  "pl": "— Wersja widoczna w tytule okna\n— Sprawdzenie okna zmian po aktualizacji"
+  "ru": "НИКИТА ПОЛУЧИЛОСЬ!",
+  "en": "NIKITA DID IT!",
+  "pl": "NIKITA SIE UDALO!"
  }
 }
