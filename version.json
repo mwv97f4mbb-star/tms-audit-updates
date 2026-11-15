@@ -1,10 +1,10 @@
 {
- "version": "2.1",
- "file": "TMSAudit_Setup_2_1.exe",
- "sha256": "9b4351958e95a70b4c8ff788a361131f0067ec62ed7846a1dd5bd542c44a997e",
+ "version": "2.1.1",
+ "file": "TMSAudit_Setup_2_1_1.exe",
+ "sha256": "5d30956807cebd54c4dc3688a0e35e6c2d820cfe5c25287155932b74e584a5ac",
  "changelog": {
-  "ru": "— Модуль IB/OB: план загрузок из WMS в главном окне (машины, прибытие, что грузить; только чтение)\n— Переключение режимов IB/OB и Аудит одной кнопкой (OB/IB)\n— Фильтр по типу трансфера, точный поиск, выбор языка в обоих режимах\n— Шифрование локальных секретов ключом (вводится один раз)\n— Загрузка обновлений с докачкой и повторами",
-  "en": "— IB/OB module: WMS loading plan in the main window (trucks, arrival, what to load; read-only)\n— One-button mode switch between IB/OB and Audit\n— Transfer-type filter, advanced search, language switch in both modes\n— Secrets encrypted with a key (entered once)\n— Update downloads with resume and retries",
-  "pl": "— Moduł IB/OB: plan załadunków z WMS w głównym oknie (auta, przyjazd, co ładować; tylko odczyt)\n— Przełączanie trybów IB/OB i Audyt jednym przyciskiem\n— Filtr typu transferu, szukanie dokładne, język w obu trybach\n— Szyfrowanie lokalnych sekretów kluczem (wpisywany raz)\n— Pobieranie aktualizacji z wznawianiem i ponowieniami"
+  "ru": "— Сортировка таблицы IB/OB кликом по заголовку столбца\n— Точный поиск: статус и склады — выпадающие списки; вручную только номер машины\n— Выбор даты/времени календарём (как в WMS)",
+  "en": "— IB/OB table sorting by clicking column headers\n— Advanced search: status and warehouses as dropdowns; only the plate is typed\n— Calendar date/time picker (like in WMS)",
+  "pl": "— Sortowanie tabeli IB/OB kliknięciem nagłówka kolumny\n— Szukanie dokładne: status i magazyny jako listy; ręcznie tylko nr auta\n— Kalendarz wyboru daty/czasu (jak w WMS)"
  }
 }
