@@ -1,10 +1,10 @@
 {
- "version": "1.9",
- "file": "TMSAudit_Setup_1_9.exe",
- "sha256": "768303aeccff652c1f1f7c03be6b200cca12b285f6a340a66cfec4b3f3b23ff6",
+ "version": "2.1",
+ "file": "TMSAudit_Setup_2_1.exe",
+ "sha256": "9b4351958e95a70b4c8ff788a361131f0067ec62ed7846a1dd5bd542c44a997e",
  "changelog": {
-  "ru": "— Окно обновления появляется сразу: кнопки «Установить сейчас/Позже» и описание на трёх языках до начала скачивания\n— Скачивание с докачкой и повторами при обрывах сети",
-  "en": "— Update window appears immediately: Install/Later buttons and a 3-language changelog before downloading starts\n— Downloads resume and retry on network drops",
-  "pl": "— Okno aktualizacji pojawia się od razu: przyciski Zainstaluj/Później i lista zmian w 3 językach przed pobraniem\n— Pobieranie wznawia się i ponawia po przerwach sieci"
+  "ru": "— Модуль IB/OB: план загрузок из WMS в главном окне (машины, прибытие, что грузить; только чтение)\n— Переключение режимов IB/OB и Аудит одной кнопкой (OB/IB)\n— Фильтр по типу трансфера, точный поиск, выбор языка в обоих режимах\n— Шифрование локальных секретов ключом (вводится один раз)\n— Загрузка обновлений с докачкой и повторами",
+  "en": "— IB/OB module: WMS loading plan in the main window (trucks, arrival, what to load; read-only)\n— One-button mode switch between IB/OB and Audit\n— Transfer-type filter, advanced search, language switch in both modes\n— Secrets encrypted with a key (entered once)\n— Update downloads with resume and retries",
+  "pl": "— Moduł IB/OB: plan załadunków z WMS w głównym oknie (auta, przyjazd, co ładować; tylko odczyt)\n— Przełączanie trybów IB/OB i Audyt jednym przyciskiem\n— Filtr typu transferu, szukanie dokładne, język w obu trybach\n— Szyfrowanie lokalnych sekretów kluczem (wpisywany raz)\n— Pobieranie aktualizacji z wznawianiem i ponowieniami"
  }
 }
