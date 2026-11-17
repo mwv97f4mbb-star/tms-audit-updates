@@ -1,10 +1,10 @@
 {
- "version": "2.1.5",
- "file": "TMSAudit_Setup_2_1_5.exe",
- "sha256": "ac55a919d5a7ead2c9ab553ba0bc6acd567d30e76fa5a6f92210f4146e048d04",
+ "version": "2.2.0",
+ "file": "ChooseDept_2_2_0.exe",
+ "sha256": "003a6b6f84018c7bfaada165fcafa6ce523ab8ec2f2550fc7e7d481a167b8b43",
  "changelog": {
-  "ru": "— Файл аудита: дата и время в имени (AUDIT_OB_ГГГГ-ММ-ДД_ЧЧ-ММ.xlsx)\n— IB/OB: копирование — Ctrl+C копирует только номера машин, правый клик — номер/ячейка/строка\n— Лог с префиксами [OB]/[IB]; в IB пошаговый лог под таблицей\n— Обновление: при согласии все окна закрываются, одно окно с прогрессом скачивания\n— Заголовок окна и ярлык — IB/OB; папка в меню Пуск — IB/OB\n— Исправлено: зависание при закрытых вкладках WMS (переиспользование вкладки + автовход)",
-  "en": "— Audit file name now includes date and time (AUDIT_OB_YYYY-MM-DD_HH-MM.xlsx)\n— IB/OB copy: Ctrl+C copies plate numbers only; right-click menu — plate/cell/row\n— Logs prefixed [OB]/[IB]; step-by-step IB log under the table\n— Update: agreeing closes all windows, one progress window shows download\n— Window title and shortcut renamed to IB/OB; Start Menu folder too\n— Fixed hang when WMS tabs were closed (tab reuse + auto-login)",
-  "pl": "— Plik audytu z datą i godziną w nazwie (AUDIT_OB_RRRR-MM-DD_GG-MM.xlsx)\n— IB/OB kopiowanie: Ctrl+C kopiuje tylko numery aut; menu prawym — numer/komórka/wiersz\n— Logi z prefiksami [OB]/[IB]; krokowy log IB pod tabelą\n— Aktualizacja: po zgodzie wszystkie okna zamykają się, jedno okno z paskiem pobierania\n— Tytuł okna i skrót — IB/OB; folder w menu Start też\n— Naprawiono zawieszanie przy zamkniętych kartach WMS (ponowne użycie karty + autologowanie)"
+  "ru": "— Переход на новые приложения: IB/OB разделён на OB (Аудит + Загрузки) и IB (Разгрузки + Загрузки)\n— После загрузки выберите отдел: SHIP (отгрузка) → установится OB, RECEIVED (приёмка) → установится IB\n— Качается и ставится только выбранное приложение (v1.0)\n— Данные из этой установки (сессия Chrome, учётка, справочники) перенесутся в новое приложение автоматически",
+  "en": "— Migration to the new apps: IB/OB is split into OB (Audit + Loads) and IB (Unloads + Loads)\n— After download choose your department: SHIP → OB installs, RECEIVED → IB installs\n— Only the chosen app (v1.0) is downloaded and installed\n— Your data (Chrome session, account, dictionaries) migrates to the new app automatically",
+  "pl": "— Przejście na nowe aplikacje: IB/OB podzielone na OB (Audyt + Załadunki) i IB (Rozładunki + Załadunki)\n— Po pobraniu wybierz dział: SHIP (wysyłka) → instaluje się OB, RECEIVED (odbiór) → instaluje się IB\n— Pobierana i instalowana jest tylko wybrana aplikacja (v1.0)\n— Dane (sesja Chrome, konto, słowniki) przeniosą się automatycznie"
  }
 }
