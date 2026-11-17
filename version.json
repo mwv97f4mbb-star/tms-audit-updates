@@ -1,10 +1,10 @@
 {
- "version": "2.1.3",
- "file": "TMSAudit_Setup_2_1_3.exe",
- "sha256": "dab08380321b2c31e1de9e3616e8ab5b6cff3f861007b9db381b955c245770d1",
+ "version": "2.1.5",
+ "file": "TMSAudit_Setup_2_1_5.exe",
+ "sha256": "ac55a919d5a7ead2c9ab553ba0bc6acd567d30e76fa5a6f92210f4146e048d04",
  "changelog": {
-  "ru": "НИКИТА ПОЛУЧИЛОСЬ!",
-  "en": "NIKITA DID IT!",
-  "pl": "NIKITA SIE UDALO!"
+  "ru": "— Файл аудита: дата и время в имени (AUDIT_OB_ГГГГ-ММ-ДД_ЧЧ-ММ.xlsx)\n— IB/OB: копирование — Ctrl+C копирует только номера машин, правый клик — номер/ячейка/строка\n— Лог с префиксами [OB]/[IB]; в IB пошаговый лог под таблицей\n— Обновление: при согласии все окна закрываются, одно окно с прогрессом скачивания\n— Заголовок окна и ярлык — IB/OB; папка в меню Пуск — IB/OB\n— Исправлено: зависание при закрытых вкладках WMS (переиспользование вкладки + автовход)",
+  "en": "— Audit file name now includes date and time (AUDIT_OB_YYYY-MM-DD_HH-MM.xlsx)\n— IB/OB copy: Ctrl+C copies plate numbers only; right-click menu — plate/cell/row\n— Logs prefixed [OB]/[IB]; step-by-step IB log under the table\n— Update: agreeing closes all windows, one progress window shows download\n— Window title and shortcut renamed to IB/OB; Start Menu folder too\n— Fixed hang when WMS tabs were closed (tab reuse + auto-login)",
+  "pl": "— Plik audytu z datą i godziną w nazwie (AUDIT_OB_RRRR-MM-DD_GG-MM.xlsx)\n— IB/OB kopiowanie: Ctrl+C kopiuje tylko numery aut; menu prawym — numer/komórka/wiersz\n— Logi z prefiksami [OB]/[IB]; krokowy log IB pod tabelą\n— Aktualizacja: po zgodzie wszystkie okna zamykają się, jedno okno z paskiem pobierania\n— Tytuł okna i skrót — IB/OB; folder w menu Start też\n— Naprawiono zawieszanie przy zamkniętych kartach WMS (ponowne użycie karty + autologowanie)"
  }
 }
